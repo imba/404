@@ -1,6 +1,12 @@
 {
   "name": "imba-404-page",
   "version": "0.0.0",
+  "main": "public/404-page.imba.js",
+  "files": [
+    "public/404-page.imba.js",
+    "public/404-page.imba.js.map",
+    "public/index.html"
+  ],
   "scripts": {
     "build": "imba-rollup",
     "start": "imba-rollup --watch --serve --hmr",
