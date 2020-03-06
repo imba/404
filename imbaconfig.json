@@ -1,8 +1,8 @@
 {
 	"entries": [{
-		"input": "./src/app.imba",
+		"input": "./src/404-page.imba",
 		"output": {
-			"file": "./public/app.imba.js",
+			"file": "./public/404-page.imba.js",
 			"format": "esm",
         	"name": "bundle",
         	"sourcemap": true

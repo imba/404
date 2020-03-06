@@ -1,11 +1,13 @@
 {
+  "name": "imba-404-page",
+  "version": "0.0.0",
   "scripts": {
     "build": "imba-rollup",
     "start": "imba-rollup --watch --serve --hmr",
     "check-version": "imbac --version"
   },
   "dependencies": {
-    "imba": "^2.0.0-alpha.31",
+    "imba": "^2.0.0-alpha.34",
     "imba-rollup": "^2.0.0-alpha.31"
   },
   "devDependencies": {}
